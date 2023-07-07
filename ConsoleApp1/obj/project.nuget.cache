@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "n/5GEOsHzwOSeXRGsTY5I8SGCAtLKoi4a1GlLatFOY42yBsTNmmdVqUraHGveIwOZ18DOHstpzihXO+o2rKQ8A==",
+  "dgSpecHash": "Uwq5XyL45+krHdcIu0xuYKd/OOpf+KjwZRZg1mWTVsA67vexFUXuIwfBVlnOxMuM1QAZMPfsnkniEw4hDOx1pw==",
   "success": true,
   "projectFilePath": "C:\\Users\\PC\\Desktop\\WebScrapping\\WebScrapping\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\htmlagilitypack\\1.11.48\\htmlagilitypack.1.11.48.nupkg.sha512"
   ],
   "logs": []

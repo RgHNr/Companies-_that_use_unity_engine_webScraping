@@ -16,3 +16,4 @@ C:\Users\PC\Desktop\WebScrapping\WebScrapping\ConsoleApp1\obj\Debug\net5.0\Conso
 C:\Users\PC\Desktop\WebScrapping\WebScrapping\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
 C:\Users\PC\Desktop\WebScrapping\WebScrapping\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
 C:\Users\PC\Desktop\WebScrapping\WebScrapping\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\PC\Desktop\WebScrapping\WebScrapping\ConsoleApp1\bin\Debug\net5.0\CsvHelper.dll
