@@ -52,7 +52,7 @@ namespace ConsoleApp1
 
                             };
                            
-                            if (gameInfo.Engine == " Unreal Engine 4 ")
+                            if (gameInfo.Engine == " Unity ")
                             {
                                 GamesList.Add(gameInfo);
                                 Console.WriteLine(gameInfo.ToString());
@@ -67,7 +67,7 @@ namespace ConsoleApp1
                 }
             }
 
-             using (var writer = new StreamWriter("C:\\Users\\PC\\Desktop\\WebScrapping\\WebScrapping\\UnrealCompaniesList.csv"))
+             using (var writer = new StreamWriter("C:\\Users\\PC\\Desktop\\WebScrapping\\WebScrapping\\UnityCompaniesList_1.csv"))
               using(var csv = new CsvWriter(writer, CultureInfo.InvariantCulture))
               {
                 Console.WriteLine("writing to file");
